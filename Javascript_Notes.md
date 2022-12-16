@@ -503,7 +503,7 @@ Propety: duration
 Methods: reset, start and stop
 Inherited from base object: constructor, hasOwnProperty,isProtorypeOf, etc
 
-1. INitially, duaration is 0,
+1. Initially, duaration is 0,
 2. We cannot call start, and stop twice in row.
 3. Duration counts the moment between start and stop.
 4. Calling reset will set the stopwatch in the initial state 

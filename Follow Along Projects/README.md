@@ -1,0 +1,1 @@
+These are Follow-Along Projects. The codes were typed and not directly copied from the Tutorial repository to ensure on hand learning on how to create the project.

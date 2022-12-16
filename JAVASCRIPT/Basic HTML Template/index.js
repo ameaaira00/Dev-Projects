@@ -1,3 +1,6 @@
+//The following are snippets from ../../Javascript_Notes.md
+
+
 // Basic printing
 // console.log('hello world');
 
